@@ -1,4 +1,4 @@
 ## 🛠️ Requisitos
 ----------------------------------------
-pip install playwright openpyxl
+pip install playwright openpyxl <br>
 playwright install chromium
